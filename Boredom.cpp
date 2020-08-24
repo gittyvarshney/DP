@@ -1,5 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
+//It is a simple Top Down 1D DP PROBLEM
+//DONE WITH RECURSTION + MEMORIZATION
 //Problem of Codeforces
 map<long long,long long>m;
 vector<long long>vec(100006,-1);
